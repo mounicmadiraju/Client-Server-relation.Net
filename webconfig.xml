@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key = "Mounic" value="Analyst"/>
+    <add key = "Raju" value="Data Scientist"/>
+    <add key = "Madiraju" value="SEO Analyst"/>
+    <add key = "Sai" value="Engineer"/>
+  </appSettings>
+</configuration>
